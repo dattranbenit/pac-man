@@ -32,6 +32,7 @@ export const GridWithHoverCoordinates: FC<{
           height: '20px',
         }}
       >
+
         {coordinates &&
           `${coordinates.x} / ${coordinates.y} - ways layer id: ${
             waysMatrix[coordinates.y][coordinates.x]
