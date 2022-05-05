@@ -1,6 +1,6 @@
 ## Demo 
-https://azure-brain-g-pacman.netlify.app/
-https://azure-brain-g.vercel.app/
+- https://azure-brain-g-pacman.netlify.app/
+- https://azure-brain-g.vercel.app/
 
 ### Tile Editor
 
